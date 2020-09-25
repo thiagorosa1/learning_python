@@ -1,2 +1,2 @@
-# learning_python
-introdução a python
+# learning_python 
+introdução a programação em Python baseadas em material do curso livre da ALURA.
